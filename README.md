@@ -81,10 +81,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-reducto-rox.vercel.app/api?username=Sonu12432&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonu12432&theme=radical" alt="GitHub Streak" />
-</p>
+<p align="left"> <img src="https://github-readme-stats-reducto-rox.vercel.app/api?username=Sonu12432&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://streak-stats.demolab.com/?user=Sonu12432&theme=radical" alt="GitHub Streak" /> </p>
 
 
 ---
